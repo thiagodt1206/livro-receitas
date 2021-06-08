@@ -1,9 +1,9 @@
-#Torta de palmito de liquidificador
+# Torta de palmito de liquidificador
 
-###Tempo de Preparo:50minRendimento:8 porções
-###Receita enviada por:daniela batista
+### Tempo de Preparo:50minRendimento:8 porções
+### Receita enviada por:daniela batista
 
-###Ingredientes
+### Ingredientes
 Massa:
 • 2 xícaras de farinha de trigo
 • 1 xícara de leite
